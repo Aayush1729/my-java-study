@@ -15,6 +15,14 @@ public class Ayush {
 //        float pi = 3.14F ;
 //        char letter = '@';
 //        boolean iisAdult = false;
+//        //PRIMITIVE DATA TYPES
+            int roll_no = 65;
+            char letter = 'a';
+            float marks = 454646.45343f;
+            double largeDecimalNumbers = 3252363454.23456;
+            long LargeIntegers = 2234567234565432L ;
+            boolean check = false;
+
 //        // non primitive types
 //        String name1 = "ayush";
 //        System.out.println(name.length());
